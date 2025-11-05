@@ -1,16 +1,20 @@
-# tugas_pemmob
+NAMA : RAFIF SURYA MURTADHA
+NIM : H1D023008
+PEMROGRAMAN MOBILE A 
 
-A new Flutter project.
+PAKET 8 APLIKASI BELAJAR FLUTTER
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<img width="1225" height="1311" alt="image" src="https://github.com/user-attachments/assets/cbddffa3-1d6d-4bd8-bd88-e57ec06c5e0d" />
 
-A few resources to get you started if this is your first Flutter project:
+<img width="1208" height="1333" alt="image" src="https://github.com/user-attachments/assets/07d221dc-9a59-4178-a360-9f8235286021" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img width="1218" height="1323" alt="image" src="https://github.com/user-attachments/assets/092899c5-4c3f-467c-b35d-e34367c3afa8" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1204" height="1307" alt="image" src="https://github.com/user-attachments/assets/b1359bc4-b80a-48b9-a49e-217daedc79df" />
+
+<img width="1210" height="1317" alt="image" src="https://github.com/user-attachments/assets/d8881def-e0f1-4f45-9995-a1d59c5ecbc3" />
+
+<img width="1205" height="1311" alt="image" src="https://github.com/user-attachments/assets/1bf89869-0cf3-4f75-ad19-96ee57e1066b" />
+
+
